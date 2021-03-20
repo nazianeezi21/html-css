@@ -1,0 +1,58 @@
+/* global */
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+.container {
+  width: 1200px;
+}
+.flex {
+  display: flex;
+}
+.row {
+  margin: 0 -20px;
+}
+.col {
+  padding: 0 20px;
+}
+/* HTML Elements */
+img {
+  max-width: 100%;
+}
+/* griding */
+.col-1 {
+  width: 100px;
+}
+.col-2 {
+  width: 200px;
+}
+.col-3 {
+  width: 300px;
+}
+.col-4 {
+  width: 400px;
+}
+.col-5 {
+  width: 500px;
+}
+.col-6 {
+  width: 600px;
+}
+.col-7 {
+  width: 700px;
+}
+.col-8 {
+  width: 800px;
+}
+.col-9 {
+  width: 900px;
+}
+.col-10 {
+  width: 1000px;
+}
+.col-11 {
+  width: 1100px;
+}
+.col-12 {
+  width: 1200px;
+}
